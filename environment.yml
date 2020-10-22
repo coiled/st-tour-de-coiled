@@ -1,0 +1,13 @@
+name: science-thursday-coiled
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - dask
+  - coiled
+  - dask-ml
+  - dask-xgboost
+  - nodejs
+  - jupyterlab>=2.0.0
+  - dask-labextension>=2.0.0
+  - ipywidgets
